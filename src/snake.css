@@ -12,13 +12,14 @@
   width: 20px;
   position: relative;
   float: left;
+
   border-radius: 5px 2px 5px 2px;
 }
 
 .snake {
   position: relative;
   padding: 1;
-  float: left;
+
   background-color: red;
 }
 
@@ -27,8 +28,21 @@
   float: left;
 }
 
-.play-info {
+.player {
   position: relative;
-  margin: 30px auto;
+  margin: 30px 550px auto;
   align-content: center;
+}
+
+.info {
+  color: darkblue;
+}
+
+.wall {
+  background-color: black;
+}
+
+.controls > button {
+  margin-right: 15px;
+  background-color: bisque;
 }
