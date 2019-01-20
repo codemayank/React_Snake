@@ -1,0 +1,2 @@
+.play-area{height:400px;width:400px;position:relative;border:5px solid #000;margin:50px auto;background-color:#0ff}.segment{height:20px;width:20px;float:left;border-radius:5px 2px 5px 2px}.segment,.snake{position:relative}.snake{padding:1;background-color:red}.food{background-color:green;float:left}.player{position:relative;margin:30px 550px auto;align-content:center}.info{color:#00008b}.wall{background-color:#000}.controls>button{margin-right:15px;background-color:bisque}
+/*# sourceMappingURL=main.38f9e8e6.chunk.css.map */
