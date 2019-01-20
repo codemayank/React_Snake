@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.38f9e8e6.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.fa7efdf6.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.fa7efdf6.chunk.js.map",
-  "static/js/1.d0d9aea5.chunk.js": "/react-gh-pages/static/js/1.d0d9aea5.chunk.js",
-  "static/js/1.d0d9aea5.chunk.js.map": "/react-gh-pages/static/js/1.d0d9aea5.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.346eb3ee.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.346eb3ee.js.map",
-  "static/css/main.38f9e8e6.chunk.css.map": "/react-gh-pages/static/css/main.38f9e8e6.chunk.css.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.4c8b00ec994e604b11ec54934a470c1b.js": "/react-gh-pages/precache-manifest.4c8b00ec994e604b11ec54934a470c1b.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js"
+  "main.css": "/snake/static/css/main.38f9e8e6.chunk.css",
+  "main.js": "/snake/static/js/main.fa7efdf6.chunk.js",
+  "main.js.map": "/snake/static/js/main.fa7efdf6.chunk.js.map",
+  "static/js/1.d0d9aea5.chunk.js": "/snake/static/js/1.d0d9aea5.chunk.js",
+  "static/js/1.d0d9aea5.chunk.js.map": "/snake/static/js/1.d0d9aea5.chunk.js.map",
+  "runtime~main.js": "/snake/static/js/runtime~main.da1ecade.js",
+  "runtime~main.js.map": "/snake/static/js/runtime~main.da1ecade.js.map",
+  "static/css/main.38f9e8e6.chunk.css.map": "/snake/static/css/main.38f9e8e6.chunk.css.map",
+  "index.html": "/snake/index.html",
+  "precache-manifest.d3697351fa59d711a660719054265599.js": "/snake/precache-manifest.d3697351fa59d711a660719054265599.js",
+  "service-worker.js": "/snake/service-worker.js"
 }
