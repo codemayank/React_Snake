@@ -176,7 +176,7 @@ class PlayArea extends React.Component {
       } else if (i === this.state.foodPosition) {
         grid.push(<Food key={i} />)
       } else if (i % 20 === 19 || i % 20 === 0) {
-        grid.push(<Wall />)
+        grid.push(<Wall key={i} />)
       } else {
         grid.push(<GridItem key={i} />)
       }
